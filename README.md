@@ -1,3 +1,5 @@
+This first script works with outputs from Transitime!
+
 [Input]
 
 1. Realtime Data (gps_5_2_to_5_4.csv)
