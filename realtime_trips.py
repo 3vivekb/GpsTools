@@ -57,8 +57,8 @@ def merge_realtime(realtime_csv, trip_csv, output_filepath):
 
 
 def main():
-    realtime_csv = 'gps_report_5_5.csv'
-    trip_csv = 'schAdhCsv_5_5.csv'
+    realtime_csv = 'gps_5_2_to_5_4.csv'
+    trip_csv = 'schAdhCsv_5_2_to_5_4.csv'
     output_filepath = 'output'
     
     # grouped_trips(trip_csv)
